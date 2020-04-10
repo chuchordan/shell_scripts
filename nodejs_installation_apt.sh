@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Script que funciona con sistemas basados en debian para
+# instalar Nodejs y preguntando cual version se desea instalar
+
 echo "========== Instalando Curl =========="
 sudo apt install curl
 
